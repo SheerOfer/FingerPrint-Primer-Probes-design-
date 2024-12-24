@@ -108,5 +108,3 @@ def rev_complement(rv_primers, patient_target_genome):
 #rev_complement(rv_primers2, patient_target_genome)
 
 
-#print(len('CCTCCCTCTCTCCTACTCCTGCTCGC'))
-
